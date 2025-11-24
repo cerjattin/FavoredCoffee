@@ -1,0 +1,11 @@
+reflex
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+requests
+email-validator
+reflex==0.8.20
